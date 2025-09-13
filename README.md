@@ -1,6 +1,6 @@
 🏥 Hospital Management System
 
-A microservices-based Hospital Management System built using Spring Boot and MongoDb, designed to efficiently manage doctors, patients, and appointments.
+A microservices-based Hospital Management System built using Spring Boot, designed to efficiently manage doctors, patients, and appointments.
 
 ---
 
